@@ -1,3 +1,3 @@
 platform :ios
 
-pod 'CocoaLUT', path: '../CocoaLut'
+pod 'CocoaLUT', path: '../CocoaLUT'

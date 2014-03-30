@@ -1,14 +1,14 @@
 PODS:
-  - CocoaLUT (0.1.2)
+  - CocoaLUT (0.1.4)
 
 DEPENDENCIES:
-  - CocoaLUT (from `../CocoaLut`)
+  - CocoaLUT (from `../CocoaLUT`)
 
 EXTERNAL SOURCES:
   CocoaLUT:
-    :path: ../CocoaLut
+    :path: ../CocoaLUT
 
 SPEC CHECKSUMS:
-  CocoaLUT: dfa9f588de2ff073dca97a9fc49270c3d131cdd0
+  CocoaLUT: b434b69ae4ca58bb51a6e8dce8a2a083f29d65ea
 
 COCOAPODS: 0.29.0
